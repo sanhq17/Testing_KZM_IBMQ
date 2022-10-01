@@ -1,1 +1,1 @@
-# Testing the Kibble-Zurek Mechanism using a Digital Quantum Computer
+# Testing the Kibble-Zurek Mechanism on a Digital Quantum Computer
